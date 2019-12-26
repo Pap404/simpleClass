@@ -4,6 +4,8 @@ public class Games {
     String year;
 
     public static void main(String[] args) {
-
+        System.out.println("GAMES" +
+                "");
     }
+
 }
