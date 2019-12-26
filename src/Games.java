@@ -4,6 +4,6 @@ public class Games {
     String year;
 
     public static void main(String[] args) {
-
+    Score score = new Score("1","Jame");
     }
 }
